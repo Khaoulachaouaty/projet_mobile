@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15764688162",
+    "project_id": "carrentpro-801fd",
+    "storage_bucket": "carrentpro-801fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15764688162:android:bb8d5de3d079aede6fe97b",
+        "android_client_info": {
+          "package_name": "com.example.carrentpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb7mn3FtlM3WNlA-mgl_NkFYLbi7lgKdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
